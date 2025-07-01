@@ -1,6 +1,6 @@
-def sum(a,b,h):
-    return a+b+h
-def sub(a,b,c):
-    return a-b-c
+def sum(a,b):
+    return a+b
+def sub(a,b,k):
+    return a-b-k
 def division(a,b):
     return a/b
